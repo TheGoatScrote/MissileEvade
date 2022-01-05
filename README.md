@@ -7,6 +7,7 @@ How to play:
 Player 1 - Joystick Port 2
   - Left/Right to turn the ship
   - Fire button to thrust engine
+
 Player 2 - Joystick Port 1
   - Left/right to turn the missile
 
